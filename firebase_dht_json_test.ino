@@ -1,5 +1,7 @@
 // https://github.com/FirebaseExtended/firebase-arduino
 // ArduinoJson by Benoit Blanchon Version 5.13.5
+// DHT sensor library by Adafruit Version 1.3.4
+// Adafruit Unified Sensor by Adafruit Version 1.0.3
 #include <ESP8266WiFi.h>
 #include <FirebaseArduino.h>
 #include <ArduinoJson.h>
